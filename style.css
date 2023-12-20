@@ -1,0 +1,30 @@
+body {
+    background: url(./background.png);
+    background-size: cover;
+    text-align: center;
+
+}
+.header {
+    
+}
+.header h1 {
+    text-align: left;
+    position: relative;
+    top: -20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.header h4 {
+    text-align: left;
+    position: relative;
+    top: -40px;
+    left: 5px;
+}
+
+.menu-item p {
+    color: black;
+    font-size: ;
+}
+
+.
